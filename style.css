@@ -7,6 +7,15 @@ body.blog-color{background-color:black;}
 body.contact-color{background-color:black;}
 
 
+@viewport {
+  width: device-width ;
+  zoom: 1.0 ;
+}
+
+
+
+
+
 /* Picture Center - Index Page    */
 
 
