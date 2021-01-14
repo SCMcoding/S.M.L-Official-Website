@@ -1,4 +1,4 @@
-This is a beta testing repository. this website might contain some bugs. But im working on improving the code. V.2 will be coming soon. For now this is a testing repo
+Welcome to my repository. Currently still on development on improving the quality and detail on the website. v.3 update out soon
 
 Update Log
 
