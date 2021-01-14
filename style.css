@@ -7,6 +7,15 @@ body.blog-color{background-color:black;}
 body.contact-color{background-color:black;}
 
 
+@viewport {
+  width: device-width ;
+  zoom: 1.0 ;
+}
+
+
+
+
+
 /* Picture Center - Index Page    */
 
 
@@ -19,13 +28,6 @@ body.contact-color{background-color:black;}
 }
 
 
-img {
-  border: 5px solid #666;
-}
-
-img {
-  border: 5px solid #666;
-}
 
 
 
@@ -136,22 +138,22 @@ text-align;center
 
 .contactlink-y{
   display: block;
-  margin-left: 150px;
-  margin-right: 150px;
+  margin-left:auto ;
+  margin-right: auto;
 }
 
 .contactlink-i{
   display: block;
-  margin-left: 255px;
-  margin-top: -50px;    
-  margin-right: 255px;
+  margin-left: auto;
+  margin-top: auto;    
+  margin-right: auto;
 }
 
 .contactlink-g{
   display: block;
-  margin-left: 360px;
-  margin-top: -50px; 
-  margin-right: 360px;
+  margin-left: auto;
+  margin-top: auto; 
+  margin-right: auto;
 }
 
 
@@ -222,7 +224,7 @@ h1, h2, h3, h4, h5, h6 {
 #intro {
 	font-family: 'Chewy', cursive;
 	font-size: 2.5em;
-	color: lightblue;
+	color: mediumpurple;
 	text-align: center;
 	
 }
