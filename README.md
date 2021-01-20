@@ -1,5 +1,10 @@
 Welcome to my websorepository. Currently still on development on improving the quality and detail on the website. v.3 update out soon
 
+Website Link:
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+https://scmcoding.github.io/S.M.L-Official-Website/
+
+
 
 
 Update Log:
@@ -22,6 +27,3 @@ Current bugs:
 * contact page buttons are not centered when the website is viewed on mobile version
 * when the website is not viewed horizontally on phone, parts of the website might not show on screen
 
-Website Link:
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-https://scmcoding.github.io/S.M.L-Official-Website/
