@@ -1,4 +1,4 @@
-Welcome to my repository. Currently still on development on improving the quality and detail on the website. v.3 update out soon
+Welcome to my websorepository. Currently still on development on improving the quality and detail on the website. v.3 update out soon
 
 
 
@@ -15,13 +15,10 @@ Update Log:
 
 
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Current bugs:
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 * contact page buttons are not centered when the website is viewed on mobile version
 * when the website is not viewed horizontally on phone, parts of the website might not show on screen
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
