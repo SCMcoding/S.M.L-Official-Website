@@ -11,6 +11,8 @@ Update Log:
 
 1/17/2021: Website V03 is released. The website more compatable with mobile devices
 
+1/19/2021: My Portfolio page has been updated. All video's well now be displayed in the center of the webpage
+
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
