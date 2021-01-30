@@ -18,6 +18,8 @@ Update Log:
 
 1/19/2021: Video page has been updated. All video's well now be displayed in the center of the webpage
 
+1/30/2021: Website V04: The (Music Status Checker) page has been added to the website. It can only be accessed when user is in (my portfolio page.) 
+
 
 
 
