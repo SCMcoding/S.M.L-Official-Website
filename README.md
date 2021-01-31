@@ -7,17 +7,17 @@ https://scmcoding.github.io/S.M.L-Official-Website/ (V.03)
 
 
 
-Current Available Pages
+Current Available Pages:
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Index Page
+Index Page/home: (https://scmcoding.github.io/S.M.L-Official-Website/)
 
-About Me
+About Me/bio: (https://scmcoding.github.io/S.M.L-Official-Website/aboutme.html)
 
-My Portfolio
+My Portfolio/ Musical Peices and composition: (https://scmcoding.github.io/S.M.L-Official-Website/myportfolio.html)
 
-Status Page
+Status Page: Only accessible through the "My Portfolio Page".
 
-Contacts
+Contacts: (https://scmcoding.github.io/S.M.L-Official-Website/contact.html)
 
 
 
