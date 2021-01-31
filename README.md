@@ -9,10 +9,14 @@ https://scmcoding.github.io/S.M.L-Official-Website/ (V.03)
 
 Current Available Pages
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Index Page 
+Index Page
+
 About Me
+
 My Portfolio
+
 Status Page
+
 Contacts
 
 
