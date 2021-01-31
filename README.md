@@ -9,9 +9,9 @@ https://scmcoding.github.io/S.M.L-Official-Website/ (V.04)
 
 Current Available Pages:
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Index Page/home: (https://scmcoding.github.io/S.M.L-Official-Website/)
+Index Page/ Home: (https://scmcoding.github.io/S.M.L-Official-Website/)
 
-About Me/bio: (https://scmcoding.github.io/S.M.L-Official-Website/aboutme.html)
+About Me/ Bio: (https://scmcoding.github.io/S.M.L-Official-Website/aboutme.html)
 
 My Portfolio/ Musical Peices and composition: (https://scmcoding.github.io/S.M.L-Official-Website/myportfolio.html)
 
