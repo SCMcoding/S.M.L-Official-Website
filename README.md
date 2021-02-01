@@ -1,4 +1,4 @@
-Welcome to my webs repository. Currently working on improving the quality and detail on the website. v.5 update out soon
+Welcome to my webs repository. Currently working on improving the quality and detail on the website. v.5 update will be released soon
 
 Website Link:
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
