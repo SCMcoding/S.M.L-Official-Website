@@ -28,15 +28,17 @@ Contacts: (https://scmcoding.github.io/S.M.L-Official-Website/contact.html)
 Update Log:
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1/12/2021: V01 website is released. Contains some bugs
+1/12/2021: V01 website is released. Contains some bugs (Alpha version)
 
-1/14/2021: Website V01 is updated into V02. Fixed buttons for the contact page / More detail's and frames added to the website
+1/14/2021: Website V01 is updated into V02. Fixed buttons for the contact page / More detail's and frames added to the website (Beta)
 
 1/17/2021: Website V03 is released. The website more compatable with mobile devices
 
 1/19/2021: Video page has been updated. All video's well now be displayed in the center of the webpage
 
 1/30/2021: Website V04: The (Music Status Checker) page has been added to the website. It can only be accessed when user is in (my portfolio page.) 
+
+2/20/2021: Website V05: Gallery Added
 
 
 
