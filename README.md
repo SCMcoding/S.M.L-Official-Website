@@ -17,6 +17,8 @@ About Me/ Bio: (https://scmcoding.github.io/S.M.L-Official-Website/aboutme.html)
 
 My Portfolio/ Musical pieces and composition: (https://scmcoding.github.io/S.M.L-Official-Website/myportfolio.html)
 
+Blog Page: https://scmcoding.github.io/S.M.L-Official-Website/blog.html
+
 Gallery Page: https://scmcoding.github.io/S.M.L-Official-Website/gallery.html
 
 Status Page: Only accessible through the "My Portfolio Page".
