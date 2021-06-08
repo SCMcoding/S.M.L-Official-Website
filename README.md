@@ -21,7 +21,7 @@ Blog Page: https://scmcoding.github.io/S.M.L-Official-Website/blog.html
 
 Gallery Page: https://scmcoding.github.io/S.M.L-Official-Website/gallery.html
 
-Status Page: Only accessible through the "My Portfolio Page".
+Status Page: 
 
 Contacts: (https://scmcoding.github.io/S.M.L-Official-Website/contact.html)
 
@@ -45,6 +45,8 @@ Update Log:
 2/20/2021: Website V05: Gallery Added
 
 4/2/2021: Website V06: NEW BANNER!!!!!
+
+6/8/2021: Website status refresh. Music Status Checker is officially avalible on the website
 
 
 
