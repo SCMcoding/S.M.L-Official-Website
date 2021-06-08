@@ -46,7 +46,7 @@ Update Log:
 
 4/2/2021: Website V06: NEW BANNER!!!!!
 
-6/8/2021: Website status refresh. Music Status Checker is officially avalible on the website
+6/8/2021: Website V06.1: Website status refresh. Music Status Checker is officially avalible on the website
 
 
 
