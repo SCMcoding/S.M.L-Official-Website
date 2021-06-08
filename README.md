@@ -21,7 +21,7 @@ Blog Page: https://scmcoding.github.io/S.M.L-Official-Website/blog.html
 
 Gallery Page: https://scmcoding.github.io/S.M.L-Official-Website/gallery.html
 
-Status Page: 
+Status Page: https://scmcoding.github.io/S.M.L-Official-Website/songstatus.html
 
 Contacts: (https://scmcoding.github.io/S.M.L-Official-Website/contact.html)
 
