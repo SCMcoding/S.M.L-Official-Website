@@ -17,9 +17,9 @@ About Me/ Bio: (https://scmcoding.github.io/S.M.L-Official-Website/aboutme.html)
 
 My Portfolio/ Musical pieces and composition: (https://scmcoding.github.io/S.M.L-Official-Website/myportfolio.html)
 
-Blog Page: https://scmcoding.github.io/S.M.L-Official-Website/blog.html
+Blog Page: https://scmcoding.github.io/S.M.L-Official-Website/blog.html (No Longer In Use)
 
-Gallery Page: https://scmcoding.github.io/S.M.L-Official-Website/gallery.html
+Gallery Page: https://scmcoding.github.io/S.M.L-Official-Website/gallery.html (No Longer In Use)
 
 Status Page: https://scmcoding.github.io/S.M.L-Official-Website/songstatus.html
 
@@ -48,6 +48,7 @@ Update Log:
 
 6/8/2021: Website V06.1: Website status refresh. Music Status Checker is officially avalible on the website
 
+10/14/2021 Website v06.2 Blog page and Gallery page are taken out of service.
 
 
 
