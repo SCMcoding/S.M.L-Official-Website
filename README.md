@@ -48,7 +48,7 @@ Update Log:
 
 6/8/2021: Website V06.1: Website status refresh. Music Status Checker is officially avalible on the website
 
-10/14/2021 Website v06.2 Blog page and Gallery page are taken out of service.
+10/14/2021 Website v06.2 Blog page and Gallery page are disabled.
 
 
 
