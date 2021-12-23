@@ -4,7 +4,7 @@ Current Website Version: V07
 
 Website Link:
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-https://scmcoding.github.io/S.M.L-Official-Website/ (V.05)
+https://scmcoding.github.io/S.M.L-Official-Website/ (V.07)
 
 
 
