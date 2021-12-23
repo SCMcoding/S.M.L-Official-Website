@@ -55,11 +55,13 @@ Update Log:
 12/22/2021 Website v07 Gallery page is back. 
 
 
-Current bugs:
+Current bugs/Curently Fixing:
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 * contact page buttons are not centered when the website is viewed on mobile version
 * when the website is not viewed horizontally on phone, parts of the website might not show on screen
+* About Me page taken off site for update
+
 
 
 
