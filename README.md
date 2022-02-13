@@ -61,6 +61,7 @@ Current bugs/Curently Fixing:
 * contact page buttons are not centered when the website is viewed on mobile version
 * when the website is not viewed horizontally on phone, parts of the website might not show on screen
 * About Me page taken off site for update
+* Gallery page seems to only be working on the computer version of the website. 
 
 
 
