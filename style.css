@@ -7,10 +7,7 @@ body.blog-color{background-color:black;}
 body.contact-color{background-color:black;}
 
 
-@viewport {
-  width: device-width ;
-  zoom: 1.0 ;
-}
+
 
 
 
@@ -84,7 +81,7 @@ body.contact-color{background-color:black;}
     font-size: 50px;
     font-weight: 500;
     text-align: left;
-    color: plum;
+    color: mediumpurple;
   }
 
 .aboutme-img {
@@ -170,6 +167,22 @@ text-align;center
   margin-right: auto;
   width: 70%;
 }
+
+
+
+
+
+/* Music Stat Center - stat Center    */
+
+
+.stat-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+
 
 
 /* Image Wrapper */
