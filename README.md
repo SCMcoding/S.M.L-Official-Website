@@ -56,6 +56,8 @@ Update Log:
 
 12/22/2021 Website v07 Gallery page is back. 
 
+2/19/2022 Website v07 Updated repository to a newer version
+
 
 Current bugs/Curently Fixing:
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
