@@ -54,7 +54,7 @@ Update Log:
 
 12/17/2021: Website v06.3  About me page taken off site. Organized folders for the status page. prepping for massive site update 2022
 
-12/22/2021 Website v07 Gallery page is back. 
+12/22/2021 Website v07 Gallery page is back. (Currently only works on the computer version of the website.)
 
 2/19/2022 Website v07 Updated repository to a newer version
 
