@@ -15,19 +15,20 @@ Current Available Pages:
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Index Page/ Home: (https://scmcoding.github.io/S.M.L-Official-Website/)
 
-About Me/ Bio: (https://scmcoding.github.io/S.M.L-Official-Website/aboutme.html) ( Taking Off site for editing purposes/ Disabled )
-
 My Portfolio/ Musical pieces and composition: (https://scmcoding.github.io/S.M.L-Official-Website/myportfolio.html) 
-
-Blog Page: https://scmcoding.github.io/S.M.L-Official-Website/blog.html (No Longer In Use)
-
-Gallery Page: https://scmcoding.github.io/S.M.L-Official-Website/gallery.html (Pending/Currently Disabled)
-
-Status Page: https://scmcoding.github.io/S.M.L-Official-Website/songstatus.html (pending/Currently Disabled)
 
 Contacts: (https://scmcoding.github.io/S.M.L-Official-Website/contact.html)
 
 
+No Longer Used Pages
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+About Me/ Bio: (https://scmcoding.github.io/S.M.L-Official-Website/aboutme.html) (Merged With Index/ Disabled)
+
+Blog Page: https://scmcoding.github.io/S.M.L-Official-Website/blog.html (Disabled)
+
+Gallery Page: https://scmcoding.github.io/S.M.L-Official-Website/gallery.html (Pending/Currently Disabled)
+
+Status Page: https://scmcoding.github.io/S.M.L-Official-Website/songstatus.html (pending/Currently Disabled)
 
 
 
@@ -59,6 +60,8 @@ Update Log:
 2/19/2022 Website v07 Updated repository to a newer version
 
 6/17/2022 Updated profile pictures for both the index and contact pages. The Gallery page will be taken down for further updates along with the Music Status Page.
+
+6/17/2022: About me page is now merged with the index page
 
 
 Current bugs/Curently Fixing:
