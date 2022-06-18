@@ -22,10 +22,19 @@ body.contact-color{background-color:black;}
   margin-left: auto;
   margin-right: auto;
   width: 90%;
+ 
 }
 
 
 
+.container{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  
+
+}
 
 
 
@@ -48,7 +57,7 @@ body.contact-color{background-color:black;}
 
 
 
-/* Picture Right- About Me Page    */
+/* Picture Right- About Me Page/ merged with index page    */
 
 * {
   box-sizing: border-box;
