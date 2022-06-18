@@ -3,11 +3,9 @@
 Current Website Version: V07
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
 Website Link:
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 https://scmcoding.github.io/S.M.L-Official-Website/ (V.07)
-
 
 
 
@@ -18,7 +16,6 @@ Index Page/ Home: (https://scmcoding.github.io/S.M.L-Official-Website/)
 My Portfolio/ Musical pieces and composition: (https://scmcoding.github.io/S.M.L-Official-Website/myportfolio.html) 
 
 Contacts: (https://scmcoding.github.io/S.M.L-Official-Website/contact.html)
-
 
 No Longer Used Pages
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -31,7 +28,6 @@ Gallery Page: https://scmcoding.github.io/S.M.L-Official-Website/gallery.html (P
 Status Page: https://scmcoding.github.io/S.M.L-Official-Website/songstatus.html (pending/Currently Disabled)
 
 
-
 Update Log:
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -39,7 +35,7 @@ Update Log:
 
 1/14/2021: Website V01 is updated into V02. Fixed buttons for the contact page / More detail's and frames added to the website (Beta)
 
-1/17/2021: Website V03 is released. The website more compatable with mobile devices
+1/17/2021: Website V03 is released. The website more compatible with mobile devices
 
 1/19/2021: Video page has been updated. All video's will now be displayed in the center of the webpage
 
@@ -49,7 +45,7 @@ Update Log:
 
 4/2/2021: Website V06: NEW BANNER!!!!!
 
-6/8/2021: Website V06.1: Website status refresh. Music Status Checker is officially avalible on the website
+6/8/2021: Website V06.1: Website status refresh. Music Status Checker is officially available on the website
 
 10/14/2021 Website v06.2 Blog page and Gallery page are disabled.
 
@@ -61,16 +57,16 @@ Update Log:
 
 6/17/2022 Updated profile pictures for both the index and contact pages. The Gallery page will be taken down for further updates along with the Music Status Page.
 
-6/17/2022: About me page is now merged with the index page
+6/17/2022: Aboutme page is now merged with the index page. The musical Status page is now the directory page. 
 
-
-Current bugs/Curently Fixing:
+Current bugs/Currently Fixing:
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 * contact page buttons are not centered when the website is viewed on mobile version
 * when the website is not viewed horizontally on phone, parts of the website might not show on screen
 * About Me page taken off site for update
 * Gallery page seems to only be working on the computer version of the website. 
+
 
 
 
