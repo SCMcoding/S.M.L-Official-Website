@@ -1,39 +1,42 @@
 # S.M.L-Official-Website
 
 Current Website Version: V07
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------
 
 Website Link:
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------
 https://scmcoding.github.io/S.M.L-Official-Website/ (V.07)
 
 
 
 Current Available Pages:
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------
 Index Page/ Home: (https://scmcoding.github.io/S.M.L-Official-Website/)
 
 My Portfolio/ Musical pieces and composition: (https://scmcoding.github.io/S.M.L-Official-Website/myportfolio.html) 
 
 Contacts: (https://scmcoding.github.io/S.M.L-Official-Website/contact.html)
 
+
+
+
 No Longer Used Pages
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-About Me/ Bio: (https://scmcoding.github.io/S.M.L-Official-Website/aboutme.html) (Merged With Index/ Disabled)
+--------------------------------------------------------
+About Me/ Bio: (https://scmcoding.github.io/S.M.L-Official-Website/aboutme.html) (Merged with Index/ Disabled)
 
 Blog Page: https://scmcoding.github.io/S.M.L-Official-Website/blog.html (Disabled)
 
 Gallery Page: https://scmcoding.github.io/S.M.L-Official-Website/gallery.html (Pending/Currently Disabled)
 
-Status Page: https://scmcoding.github.io/S.M.L-Official-Website/songstatus.html (pending/Currently Disabled)
+Status Page: https://scmcoding.github.io/S.M.L-Official-Website/songstatus.html (Replaced by Directory Page)
 
 
 Update Log:
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------
 
 1/12/2021: V01 website is released. Contains some bugs (Alpha version)
 
-1/14/2021: Website V01 is updated into V02. Fixed buttons for the contact page / More detail's and frames added to the website (Beta)
+1/14/2021: Website V01 is updated into V02. Fixed buttons for the contact page / More details and frames added to the website (Beta)
 
 1/17/2021: Website V03 is released. The website more compatible with mobile devices
 
@@ -49,7 +52,7 @@ Update Log:
 
 10/14/2021 Website v06.2 Blog page and Gallery page are disabled.
 
-12/17/2021: Website v06.3  About me page taken off site. Organized folders for the status page. prepping for massive site update 2022
+12/17/2021: Website v06.3 About me page taken off site. Organized folders for the status page. prepping for massive site update 2022
 
 12/22/2021 Website v07 Gallery page is back. (Currently only works on the computer version of the website.)
 
@@ -57,17 +60,16 @@ Update Log:
 
 6/17/2022 Updated profile pictures for both the index and contact pages. The Gallery page will be taken down for further updates along with the Music Status Page.
 
-6/17/2022: Aboutme page is now merged with the index page. The musical Status page is now the directory page. 
+6/17/2022: Aboutme page is now merged with the index page. The musical Status page is now the directory page.
+
+7/1/2022: Gallery Page is back. It can now only be accessed through the index page.  
 
 Current bugs/Currently Fixing:
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------
 
-* contact page buttons are not centered when the website is viewed on mobile version
-* when the website is not viewed horizontally on phone, parts of the website might not show on screen
-* About Me page taken off site for update
+* Contact page buttons are not centered when the website is viewed on mobile version
+* When the website is not viewed horizontally on phone, parts of the website might not show on screen
 * Gallery page seems to only be working on the computer version of the website. 
-
-
 
 
 
